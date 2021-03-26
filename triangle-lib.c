@@ -8,6 +8,7 @@
  * Description: Program designed to practice passing by reference. 
  * 	Gets 2 double values from user as sides of a right triangle,
  * 	displays these to the screen, and then displays the hypotenuse.
+ *
  * */
 
 double getHypotenuse(double a, double b)
